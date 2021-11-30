@@ -1,5 +1,3 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=redegg89&theme=dark)
-
 # How did I get my name?
 
 My name was originally redgriefer89, based off the naming scheme seen in the League of Griefers Series by Winter Morgan because I'm uncreative when it comes to names. I can't remember if it's good or not, since I read it years ago. 
