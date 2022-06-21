@@ -10,9 +10,9 @@ Unrelated: The "89" was was (and still is) supposed to be pronounced eight-nine,
 
 No. ~~But I can, for the right price~~
 
-# What are your interests?
+# What do you do?
 
-I like modding. I'm working on a Terraria mod in addition to my game. You can find a list of games I have on Steam [here](https://steamcommunity.com/id/redgriefer89/games/?tab=all&sort=playtime)
+I have the most experience with C#, followed by C, and despite my profile saying otherwise, I know nothing about ShaderLab or HLSL. I have a bit of experience in web design, but not much.
 
 # If I need to tell you about a bug, where should I tell you?
 
